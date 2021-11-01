@@ -1,5 +1,5 @@
 {
-    "name": "Black Lightning - UserBot",
+    "name": "GANGSTER - UserBot",
     "description": "An advanced Telethon Userbot, from @keinshin",
     "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
     "keywords": [
@@ -20,7 +20,7 @@
      },
      "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "LAMDA"
      },
      "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://replit.com/@Paramatin/Lightning-Repl#main.py online.",
